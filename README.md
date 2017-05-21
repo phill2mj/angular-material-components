@@ -1,6 +1,6 @@
-# AngularMaterialComponents
+# Angular Material Components
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
+A componentized implementation of the Material Design specification for Angular
 
 ## Development server
 
