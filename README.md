@@ -1,4 +1,4 @@
-# AngularMaterialComponents
+# Angular Material Components
 
 A componentized implementation of the Material Design specification for Angular
 
